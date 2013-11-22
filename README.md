@@ -26,6 +26,12 @@ hashcss.com
 │   │   └── [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 │   ├── Float Containment
 │   ├── Schools
+│   │   ├── [CodeCademy](http://www.codecademy.com/)
+│   │   ├── [Webplatform Tutorials](http://docs.webplatform.org/wiki/tutorials)
+│   │   ├── [Team Treehouse](http://teamtreehouse.com/)
+│   │   ├── [Accessibility-Driven Information](http://a11yproject.com/)
+│   │   ├── [Coderwall](https://coderwall.com/welcome)
+│   │   └── [Tuts+ 30 Days to learn HTML and CSS](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
 │   ├── Boilerplates
 │   │   ├── [HTML5 Bones](http://html5bones.com/)
 │   │   └── [HTML5 Boilerplate](http://html5boilerplate.com/)
