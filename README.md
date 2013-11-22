@@ -7,8 +7,12 @@ Maintained by
 ## Sitemap
 
 ````
+
+hashcss.com
 ├── About
 ├── Rules
+│   ├── Why we wont help you
+│   └── Support Vampires
 ├── Ops
 ├── Our bot
 │   ├── Usage
@@ -17,6 +21,8 @@ Maintained by
 │   └── Admins
 ├── Wiki
 │   ├── Flexbox
+│   │   ├── [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+│   │   └── [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 │   ├── Float Containment
 │   ├── Schools
 │   ├── Boilerplates
@@ -24,8 +30,12 @@ Maintained by
 │   │   └── [HTML5 Boilerplate](http://html5boilerplate.com/)
 │   └── Frameworks
 │       ├── [Twitter Bootstrap](http://getbootstrap.com/)
+│       ├── [Pure](http://purecss.io/)
+│       ├── [Topcoat](http://topcoat.io/)
 │       └── [Zurb Foundation](http://foundation.zurb.com/)
 └── [Webchat](http://webchat.freenode.net/)
+
+
 ````
 
 
