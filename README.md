@@ -1,4 +1,4 @@
-# hashcss.org - Official site for #CSS on Freenode
+# Official site for #CSS on Freenode
 
 Maintained by 
 * [jedimind](//github.com/pudly)
