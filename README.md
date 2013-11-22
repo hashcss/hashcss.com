@@ -7,10 +7,10 @@ Maintained by
 ## Sitemap
 
 ````
-
 hashcss.com
 ├── About
 ├── Rules
+│   ├── Testcases
 │   ├── Why we wont help you
 │   └── Support Vampires
 ├── Ops
@@ -22,20 +22,22 @@ hashcss.com
 ├── Wiki
 │   ├── Flexbox
 │   │   ├── [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+│   │   ├── [Flexbox Basics](http://wesbos.com/flexbox-basics/)
 │   │   └── [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 │   ├── Float Containment
 │   ├── Schools
 │   ├── Boilerplates
 │   │   ├── [HTML5 Bones](http://html5bones.com/)
 │   │   └── [HTML5 Boilerplate](http://html5boilerplate.com/)
-│   └── Frameworks
-│       ├── [Twitter Bootstrap](http://getbootstrap.com/)
-│       ├── [Pure](http://purecss.io/)
-│       ├── [Topcoat](http://topcoat.io/)
-│       └── [Zurb Foundation](http://foundation.zurb.com/)
+│   ├── Frameworks
+│   │   ├── [Twitter Bootstrap](http://getbootstrap.com/)
+│   │   ├── [Pure](http://purecss.io/)
+│   │   ├── [Topcoat](http://topcoat.io/)
+│   │   └── [Zurb Foundation](http://foundation.zurb.com/)
+│   └── Responsive Web Design
+│       ├── [ALA - Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+│       └── [Beginners Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
 └── [Webchat](http://webchat.freenode.net/)
-
-
 ````
 
 
