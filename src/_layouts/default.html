@@ -48,10 +48,11 @@
           <li class="has-dropdown not-click">
             <a href="/bot/" class="">Our Bot</a>
             <ul class="dropdown">
-              <li><a href="/bot/info.html">Info</a></li>
-              <li><a href="/bot/usage.html">Usage</a></li>
-              <li><a href="/bot/commands.html">Commands</a></li>
-              <li><a href="/bot/admins.html">Admins</a></li>
+            {% for node in site.pages %}
+              {% if node.categories == 'bot'%}
+                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endfor %}
             </ul>
           </li>
 
