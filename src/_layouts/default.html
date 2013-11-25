@@ -59,12 +59,11 @@
           <li class="has-dropdown not-click">
             <a href="/wiki/" class="">Wiki</a>
             <ul class="dropdown">
-              <li><a href="/wiki/flexbox.html">Flexbox</a></li>
-              <li><a href="/wiki/float-containment.html">Float Containment</a></li>
-              <li><a href="/wiki/schools.html">Schools</a></li>
-              <li><a href="/wiki/boilerplates.html">Boilerplates</a></li>
-              <li><a href="/wiki/frameworks.html">Frameworks</a></li>
-              <li><a href="/wiki/responsive-webdesign.html">Responsive Webdesign</a></li>
+            {% for node in site.pages %}
+              {% if node.categories == 'wiki'%}
+                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endfor %}
             </ul>
           </li>
           

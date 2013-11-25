@@ -10,10 +10,6 @@ title: '#CSS home'
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     
-    {% for node in site.pages %}
-      {% if node.categories == 'wiki'%}
-        <li>{{node.title}}</li>
-      {% endif %}
-    {% endfor %}
+
   </ul>
 </div>
