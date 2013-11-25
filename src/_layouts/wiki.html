@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<section role="main">
+  <div class="row">
+    <div class="large-3 medium-4 columns">
+      <div class="hide-for-small">
+        <div class="sidebar">
+          <h5>Wiki Documentation</h5>
+          <form>
+            <!--  <label>Search Documentation</label> -->
+            <input tabindex="1" id="autocomplete" type="search" placeholder="Search Docs: e.g. forms">
+          </form>
+        
+          <nav>
+            <ul class="side-nav">
+              
+            {% for node in site.pages %}
+              {% if node.categories == 'wiki'%}
+                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+            </ul>
+          </nav>
+        </div><!-- .sidebar -->
+      </div><!-- .hide-for-small -->
+    </div><!-- .large-3 medium-4 columns -->
+    <div class="large-9 medium-8 columns">
+      {{content}}
+    </div>
+  </div><!-- .row -->
+</section><!-- main -->

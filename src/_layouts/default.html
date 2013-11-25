@@ -1,44 +1,92 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>#CSS - {{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/foundation.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/syntax.css">
+    
+    <script src="js/modernizr.js"></script>
+  </head>
+  <body>
+    
+    <nav class="top-bar docs-bar hide-for-small" data-topbar="">
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="/">{{ site.name }}</a></h1>
+        </li>
+      </ul>
+      
+      <section class="top-bar-section">
+        <ul class="right">
+          <li class="divider"></li>
+          <li class="has-dropdown not-click">
+            <a href="/about/" class="">About</a>
+            <ul class="dropdown">
+              <li>
+                <a href="/ops/" class="">Operators</a>
+              </li>
+            </ul>
+          </li>
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+          <li class="divider"></li>
+          <li class="has-dropdown not-click">
+            <a href="/rules/" class="">Rules</a>
+            <ul class="dropdown">
+              <li><a href="/rules/why-we-wont-help-you.html">How to get help</a></li>
+              <li><a href="/rules/testcases.html">Testcases</a></li>
+              <li><a href="/rules/vampires.html">What's a support vampire?</a></li>
+            </ul>
+          </li>
+          
+          <li class="divider"></li>
+          <li class="has-dropdown not-click">
+            <a href="/bot/" class="">Our Bot</a>
+            <ul class="dropdown">
+              <li><a href="/bot/info.html">Info</a></li>
+              <li><a href="/bot/usage.html">Usage</a></li>
+              <li><a href="/bot/commands.html">Commands</a></li>
+              <li><a href="/bot/admins.html">Admins</a></li>
+            </ul>
+          </li>
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
-
-    </head>
-    <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
-
-    </body>
+          <li class="divider"></li>
+          <li class="has-dropdown not-click">
+            <a href="/wiki/" class="">Wiki</a>
+            <ul class="dropdown">
+              <li><a href="/wiki/flexbox.html">Flexbox</a></li>
+              <li><a href="/wiki/float-containment.html">Float Containment</a></li>
+              <li><a href="/wiki/schools.html">Schools</a></li>
+              <li><a href="/wiki/boilerplates.html">Boilerplates</a></li>
+              <li><a href="/wiki/frameworks.html">Frameworks</a></li>
+              <li><a href="/wiki/responsive-webdesign.html">Responsive Webdesign</a></li>
+            </ul>
+          </li>
+          
+          <li class="divider"></li>
+          <li>
+            <a href="http://webchat.freenode.net">Freenode Webchat</a>
+          </li>          
+        </ul>
+      </section>
+    </nav>
+    
+    {{ content }}
+    
+    <footer>
+    
+    </footer>
+    
+    <script src="/js/jquery.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <script>
+    $(document).foundation();
+    </script>
+  
+  </body>
 </html>
