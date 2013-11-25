@@ -38,9 +38,11 @@
           <li class="has-dropdown not-click">
             <a href="/rules/" class="">Rules</a>
             <ul class="dropdown">
-              <li><a href="/rules/why-we-wont-help-you.html">How to get help</a></li>
-              <li><a href="/rules/testcases.html">Testcases</a></li>
-              <li><a href="/rules/vampires.html">What's a support vampire?</a></li>
+            {% for node in site.pages %}
+              {% if node.categories == 'rules'%}
+                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endfor %}
             </ul>
           </li>
           
