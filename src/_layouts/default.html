@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>#CSS - {{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/foundation.min.css">
@@ -28,9 +28,11 @@
           <li class="has-dropdown not-click">
             <a href="/about/" class="">About</a>
             <ul class="dropdown">
-              <li>
-                <a href="/ops/" class="">Operators</a>
-              </li>
+              {% for node in site.pages %}
+              {% if node.categories == 'about'%}
+                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endfor %}
             </ul>
           </li>
 
@@ -72,7 +74,7 @@
           
           <li class="divider"></li>
           <li>
-            <a href="http://webchat.freenode.net">Freenode Webchat</a>
+            <a href="https://webchat.freenode.net/?channels=#css">Freenode Webchat</a>
           </li>          
         </ul>
       </section>
