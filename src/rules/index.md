@@ -1,11 +1,11 @@
 ---
 layout: bot
-title:  "General Rules"
+title:  "Rules Of Conduct"
 date:
 categories: rules
 ---
 
-# Rules Of Conduct
+##### can't we all just get along?
 
 ---
 
