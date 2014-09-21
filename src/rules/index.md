@@ -7,6 +7,8 @@ categories: rules
 
 # Rules Of Conduct
 
+---
+
 The [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/) applies.
 
 * Everyone will be reasonable.
