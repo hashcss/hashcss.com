@@ -24,64 +24,52 @@
       
       <section class="top-bar-section">
         <ul class="right">
-          <li class="divider"></li>
           <li class="has-dropdown not-click">
-            <a href="/about/" class="">About</a>
+            <a href="/rules">Rules</a>
             <ul class="dropdown">
-              {% for node in site.pages %}
-              {% if node.categories == 'about'%}
-                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-            </ul>
-          </li>
-
-          <li class="divider"></li>
-          <li class="has-dropdown not-click">
-            <a href="/rules/" class="">Rules</a>
-            <ul class="dropdown">
-            {% for node in site.pages %}
-              {% if node.categories == 'rules'%}
-                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
-              {% endif %}
-            {% endfor %}
+              <li><a href="/rules/#rules">Code of Conduct</a></li>
+              <li><a href="/rules/#guidelines">Guidelines</a></li>
+              <li><a href="/rules/#topic">On Topic</a></li>
+              <li><a href="/rules/#ops">Channel Ops</a></li>
             </ul>
           </li>
           
           <li class="divider"></li>
           <li class="has-dropdown not-click">
-            <a href="/bot/" class="">Our Bot</a>
+            <a href="/using" class="">Using #CSS</a>
             <ul class="dropdown">
-            {% for node in site.pages %}
-              {% if node.categories == 'bot'%}
-                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
-              {% endif %}
-            {% endfor %}
+              <li><a href="/using/#live">Live URLs</a></li>
+              <li><a href="/using/#paste">Pastebins</a></li>
+              <li><a href="/using/#testcase">Test Cases</a></li>
+              <li><a href="/using/#bot">Bots</a></li>
             </ul>
           </li>
 
-          <li class="divider"></li>
-          <li class="has-dropdown not-click">
-            <a href="/wiki/" class="">Wiki</a>
-            <ul class="dropdown">
-            {% for node in site.pages %}
-              {% if node.categories == 'wiki'%}
-                <li><a href="{{ node.url }}">{{ node.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-            </ul>
-          </li>
-          
           <li class="divider"></li>
           <li>
-            <a href="https://webchat.freenode.net/?channels=#css">Freenode Webchat</a>
-          </li>          
+            <a href="/faq" class="">FAQs</a>
+          </li>
+
+          <li class="divider"></li>
+          <li class="has-dropdown not-click">
+            <a href="/schools" class="">Tutorials</a>
+            <ul class="dropdown">
+            </ul>
+          </li>
+
+          <li class="divider"></li>
+          <li class="has-dropdown not-click">
+            <a href="/docs" class="">Docs</a>
+            <ul class="dropdown">
+            </ul>
+          </li>
+
         </ul>
       </section>
     </nav>
     
     {{ content }}
-    
+
     <footer>
     
     </footer>
