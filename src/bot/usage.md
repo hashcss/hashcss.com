@@ -9,7 +9,7 @@ Commands are prefixed with the \` (backtick) character to indicate to Selvvir it
 
 Anything not recognized as an explicit command is assumed to be a factoid. Factoids can have spaces.
 
-The `@` character can be used to address a command's response or factoid output to another user: \``caniuse flex @ username`
+The `@` character can be used to address a command’s response or factoid output to another user: \``caniuse flex @ username`
 
 However, all errors are reported back as notices to the original requestor and not the addressed user. Commands with longer output also send it as a notice, so as not to spam the channel.
 

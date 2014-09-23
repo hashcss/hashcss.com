@@ -9,4 +9,4 @@ categories: rules
 
 ---
 
-Coming soon...
+Coming soon…
