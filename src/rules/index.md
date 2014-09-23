@@ -29,9 +29,9 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. Ev
 
 If an individual engages in unacceptable behavior, the ops may take any action they deem appropriate. Initial violations or violations believed be unintentional, if not repeated, will likely only result in warnings. Repeated violations or intentional harassment will be meet with increasingly severe responses.
 
-## If someone is breaking the rules...
+## If someone is breaking the rules…
 
-If someone is breaking the rules, please ask them nicely to stop, once, and point them here. If they continue to break the rules, please contact a chanop.
+If someone is breaking the rules, please ask them nicely to stop, once, and point them here. If they continue to break the rules, please contact a [chanop](/about/ops.html).
 
 Breaking the rules while trying to help enforce the rules is still breaking the rules. Remember the Reasonable Person Principle.
 

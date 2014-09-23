@@ -15,8 +15,8 @@ Channel ops in #css are:
 
 ---
 
-As a general rule, we're pretty friendly :) Be sure to read the rules for what to do and what not to do.
+As a general rule, we’re pretty friendly :) Be sure to read the [rules](/rules) for what to do and what not to do.
 
 ---
 
-See the rules page for the channel rules
+See the [rules page](/rules) for the channel rules
