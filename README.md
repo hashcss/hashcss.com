@@ -10,6 +10,11 @@ This is the repository of [the #CSS website](http://hashcss.com).
     * [preaction](//github.com/preaction)
     * [emersonveenstra](//github.com/emersonveenstra)
 
+# Contributing
+
+If you'd like to help add to the #CSS website, see our contributors
+guide in CONTRIBUTING.md.
+
 # License
 
 *The MIT License (MIT)*
