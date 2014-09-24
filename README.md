@@ -4,49 +4,6 @@ Maintained by
 * [jedimind](//github.com/pudly)
 * [oksushi](//github.com/oksushi)
 
-## Sitemap
-
-````
-hashcss.com
-├── About
-├── Rules
-│   ├── Testcases
-│   ├── Why we wont help you
-│   └── Support Vampires
-├── Ops
-├── Our bot
-│   ├── Usage
-│   ├── Commands
-│   ├── Info
-│   └── Admins
-├── Wiki
-│   ├── Flexbox
-│   │   ├── [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-│   │   ├── [Flexbox Basics](http://wesbos.com/flexbox-basics/)
-│   │   └── [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
-│   ├── Float Containment
-│   ├── Schools
-│   │   ├── [CodeCademy](http://www.codecademy.com/)
-│   │   ├── [Webplatform Tutorials](http://docs.webplatform.org/wiki/tutorials)
-│   │   ├── [Team Treehouse](http://teamtreehouse.com/)
-│   │   ├── [Accessibility-Driven Information](http://a11yproject.com/)
-│   │   ├── [Coderwall](https://coderwall.com/welcome)
-│   │   └── [Tuts+ 30 Days to learn HTML and CSS](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
-│   ├── Boilerplates
-│   │   ├── [HTML5 Bones](http://html5bones.com/)
-│   │   └── [HTML5 Boilerplate](http://html5boilerplate.com/)
-│   ├── Frameworks
-│   │   ├── [Twitter Bootstrap](http://getbootstrap.com/)
-│   │   ├── [Pure](http://purecss.io/)
-│   │   ├── [Topcoat](http://topcoat.io/)
-│   │   └── [Zurb Foundation](http://foundation.zurb.com/)
-│   └── Responsive Web Design
-│       ├── [ALA - Responsive Web Design](http://alistapart.com/article/responsive-web-design)
-│       └── [Beginners Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
-└── [Webchat](http://webchat.freenode.net/)
-````
-
-
 ## License
 
 #### The MIT License (MIT)
