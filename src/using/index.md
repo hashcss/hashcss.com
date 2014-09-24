@@ -6,6 +6,9 @@ layout: plain
 <a name="help"></a>
 # Using #CSS Effectively
 
+In addition to [the #CSS rules](/rules), here are some tips which will
+make it easier to get help.
+
 <a name="live"></a>
 ## Live URLs
 
@@ -23,6 +26,7 @@ people use.
 * [Codepen](http://codepen.io)
 * [Tinkerbin](http://tinkerbin.heroku.com)
 * [JSBin](http://jsbin.com)
+* [Selvvir's Pastebin](http://paste.asmcbain.net)
 * [Webdevout](http://webdevout.net)
 
 <a name="testcase"></a>
@@ -39,7 +43,27 @@ solution to your problem yourself!
 
 Avoid these behaviors to make your time in the channel go smoothly:
 
-* Don't be a [Help Vampire](http://slash7.com/2006/12/22/vampires/)
+### Don't be a Help Vampire
+
+[Help Vampires](http://slash7.com/2006/12/22/vampires/) are people who
+wholly rely on the knowledge of others to do their work. Instead of
+trying to learn, the help vampire asks for an example, and copies the
+result into their own code.
+
+What distinguishes the help vampire is:
+
+* Asking the same question multiple times, despite getting answers
+    * Instead of asking the same question, if you do not understand the
+      answers, ask followup questions for clarification
+* Appearing to lack initiative
+    * Tell us about everything you tried before you joined the channel.
+      This will also help us to help you.
+    * Before asking for clarification on a term, try asking Google
+    * Don't be afraid to try things while asking for help. Tell us what
+      you tried and what happened!
+* Being rude and demanding
+    * The people in the channel are volunteers. Rude behavior is against
+      [the #CSS rules](/rules).
 
 <a name="bot"></a>
 # Bots
