@@ -1,14 +1,20 @@
-# Official site for #CSS on Freenode
+# [Official site for #CSS on Freenode](http://hashcss.com)
 
-Maintained by 
-* [jedimind](//github.com/pudly)
-* [oksushi](//github.com/oksushi)
+This is the repository of [the #CSS website](http://hashcss.com).
 
-## License
+# Maintained by
 
-#### The MIT License (MIT)
+* [The #CSS Organization](https://github.com/hashcss)
+    * [jedimind](//github.com/pudly)
+    * [oksushi](//github.com/oksushi)
+    * [preaction](//github.com/preaction)
+    * [emersonveenstra](//github.com/emersonveenstra)
 
-Copyright (c) #CSS //freenode
+# License
+
+*The MIT License (MIT)*
+
+Copyright (c) 2014 #CSS//freenode
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
