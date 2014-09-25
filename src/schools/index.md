@@ -25,6 +25,8 @@ Use these resources while you are getting started with CSS.
 
 ## Libraries
 
+* [-prefix-free](http://leaverou.github.io/prefixfree/)
+
 ## Frameworks
 
 * [Twitter Bootstrap](http://getbootstrap.com/)
