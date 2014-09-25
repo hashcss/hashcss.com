@@ -22,6 +22,7 @@ Use these resources while you are getting started with CSS.
 ## Accessibility
 
 * [Accessibility-Driven Information](http://a11yproject.com/)
+* [Websites for non–jerks](https://github.com/chriswrightdesign/websites-for-non-jerks)
 
 ## Libraries
 

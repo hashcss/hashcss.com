@@ -15,8 +15,7 @@ faster.
 
 ---
 
-<a name="rules"></a>
-# Rules
+##Rules
 
 The [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
 applies.
@@ -51,7 +50,7 @@ be unintentional, if not repeated, will likely only result in warnings.
 Repeated violations or intentional harassment will be meet with
 increasingly severe responses.
 
-## If someone is breaking the rules...
+### If someone is breaking the rules…
 
 If someone is breaking the rules, please ask them nicely to stop, once,
 and point them here. If they continue to break the rules, please contact
@@ -60,11 +59,11 @@ a chanop.
 Breaking the rules while trying to help enforce the rules is still
 breaking the rules. Remember the Reasonable Person Principle.
 
-<a name="guidelines"></a>
-# Channel Guidelines
 
-<a name="topic"></a>
-## Topic
+##Channel Guidelines
+
+
+###Topic
 
 The #css channel is for discussing CSS with people who are writing CSS.
 If you have a different problem, here are some other places where you
@@ -93,8 +92,8 @@ If you are directed to another channel, please try there before asking
 in #css again. Someone may still help from #css. Off-topic chatter is
 not against the rules.
 
-<a name="ops"></a>
-# Channel Operators
+
+##Channel Operators
 
 * preaction
 * drej
