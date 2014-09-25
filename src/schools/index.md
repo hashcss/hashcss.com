@@ -9,10 +9,11 @@ Use these resources while you are getting started with CSS.
 
 # Getting Started With CSS
 
-* [CodeCademy](http://www.codecademy.com/)
-* [Webplatform Tutorials](http://docs.webplatform.org/wiki/tutorials)
-* [Coderwall](https://coderwall.com/welcome)
+* [Codeacademy](http://www.codecademy.com/tracks/web): "Learn how to create websites by structuring and styling your pages with HTML and CSS."
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started): "This tutorial introduces you to the basic features and" syntax of CSS.
+* [WebPlatform.org](http://docs.webplatform.org/wiki/css/tutorials): "This page lists our CSS tutorials, perfect for anyone"
 * [Tuts+ 30 Days to learn HTML and CSS](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
+* [Coderwall](https://coderwall.com/welcome)
 
 ## Paid Training
 
