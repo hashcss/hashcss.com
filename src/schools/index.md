@@ -7,7 +7,7 @@ layout: plain
 
 Use these resources while you are getting started with CSS.
 
-# Getting Started With CSS
+## Getting Started With CSS
 
 * [Codeacademy](http://www.codecademy.com/tracks/web): "Learn how to create websites by structuring and styling your pages with HTML and CSS."
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started): "This tutorial introduces you to the basic features and" syntax of CSS.
@@ -19,11 +19,11 @@ Use these resources while you are getting started with CSS.
 
 * [Team Treehouse](http://teamtreehouse.com/)
 
-# Accessibility
+## Accessibility
 
 * [Accessibility-Driven Information](http://a11yproject.com/)
 
-# Libraries
+## Libraries
 
 ## Frameworks
 
