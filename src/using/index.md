@@ -3,20 +3,17 @@ title: "Using #CSS"
 layout: plain
 ---
 
-<a name="help"></a>
 # Using #CSS Effectively
 
 In addition to [the #CSS rules](/rules), here are some tips which will
 make it easier to get help.
 
-<a name="live"></a>
 ## Live URLs
 
 Please provide a live URL of the problem site. Screenshots are difficult
 to debug. Only providing the CSS for a site doesn't help us see the
 problem: CSS does not work without HTML.
 
-<a name="paste"></a>
 ## Pastebins
 
 For our purposes, [JSFiddle](http://jsfiddle.net) is the site most
@@ -29,7 +26,6 @@ people use.
 * [Selvvir's Pastebin](http://paste.asmcbain.net)
 * [Webdevout](http://webdevout.net)
 
-<a name="testcase"></a>
 ## Test Cases
 
 A test case is the minimal amount of HTML, CSS, and JavaScript needed to
@@ -65,8 +61,7 @@ What distinguishes the help vampire is:
     * The people in the channel are volunteers. Rude behavior is against
       [the #CSS rules](/rules).
 
-<a name="bot"></a>
-# Bots
+## Bots
 
 Selvvir is an IRC bot for the #css channel on freenode. It replaces the
 previous bot, rivvles, created by Colin Aarts (aka riven or lilmonkey on
@@ -85,7 +80,7 @@ caniuse.com functionality of Selvvir, but it is not hard to add.
 Why neon green? rivvles' favorite color was hotpink. Ask Selvvir about
 `hotpink.
 
-## Commands
+### Commands
 
 Commands are prefixed with the \` (backtick) character to indicate to
 Selvvir it is being addressed: \``somefactoid`

@@ -87,6 +87,8 @@ will get better help:
 * Freelance - #css-lance on Freenode
     * If you are looking to hire or be hired
     * If you are in a hurry, you probably want to spend money
+* Frontend - #frontend on Freenode
+    * If you want to talk about general front–end development topics, such as CSS pre–processors, methodologies and tooling
 
 If you are directed to another channel, please try there before asking
 in #css again. Someone may still help from #css. Off-topic chatter is
