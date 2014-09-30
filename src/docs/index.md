@@ -16,7 +16,7 @@ try the tutorials](/schools)
     * [Web Platform - HTML](http://docs.webplatform.org/wiki/html)
     * [Web Platform - CSS](http://docs.webplatform.org/wiki/css)
 
-# Specifications
+## Specifications
 
 * [W3C - World Wide Web Consortium](http://www.w3.org)
     * [W3C CSS home page](http://www.w3.org/Style/CSS/)
@@ -28,6 +28,6 @@ try the tutorials](/schools)
 * [WHATWG - Web Hypertext Application Technology Working Group](http://whatwg.org)
     * [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 
-# Useful Tools
+## Useful Tools
 
 * [Can I Use... - Browser support tables for HTML, CSS, etc](http://caniuse.com)
