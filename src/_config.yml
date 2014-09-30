@@ -2,4 +2,4 @@ name: '#css'
 markdown: redcarpet
 redcarpet:
     extensions: [with_toc_data]
-pygments: true
+highlighter: pygments
