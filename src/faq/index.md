@@ -5,14 +5,14 @@ layout: plain
 
 # CSS FAQs
 
-# Float Containment
+## Float Containment
 
 How do I prevent floats from leaving their container?
 
 * [Float Containment](http://colinaarts.com/articles/float-containment/)
 * [The Magic of Overflow Hidden](http://colinaarts.com/articles/the-magic-of-overflow-hidden/)
 
-# Responsive Design
+## Responsive Design
 
 How to I make my website responsive?
 
@@ -21,7 +21,7 @@ How to I make my website responsive?
 * [Liquidapsive](http://liquidapsive.com/) — What’s the difference between Responsive, Liquid and Adaptive Layouts?
 * [MediaQueri.es](http://mediaqueri.es/) — Examples of responsive layouts
 
-# Flexbox
+## Flexbox
 
 * [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox Basics](http://wesbos.com/flexbox-basics/)
@@ -29,7 +29,7 @@ How to I make my website responsive?
 * [Flexbox Composer](http://maxsteenbergen.com/fibonacci/)
 * [Flexbox in 5 Minutes](http://devbryce.com/site/flexbox/)
 
-# Form Widget Styles
+## Form Widget Styles
 
 How do I change how a form looks?
 
