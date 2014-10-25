@@ -28,6 +28,13 @@ own set of practices.
 
 * [Can I Use... - Browser support tables for HTML, CSS, etc](http://caniuse.com)
 
+## Cheat Sheets
+
+Simple (usually printable) pages containing lots of concise usage
+information.
+
+* [quicklycode CSS cheat sheets](http://www.quicklycode.com/?s=css)
+
 ## Specifications
 
 * [W3C - World Wide Web Consortium](http://www.w3.org)
