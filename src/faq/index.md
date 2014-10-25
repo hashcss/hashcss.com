@@ -28,3 +28,10 @@ How to I make my website responsive?
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 * [Flexbox Composer](http://maxsteenbergen.com/fibonacci/)
 * [Flexbox in 5 Minutes](http://devbryce.com/site/flexbox/)
+
+# Form Widget Styles
+
+How do I change how a form looks?
+
+* [MDN - Styling HTML Forms](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms)
+
