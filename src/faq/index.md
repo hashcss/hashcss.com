@@ -5,6 +5,28 @@ layout: plain
 
 # CSS FAQs
 
+## Browser Support
+
+Does X support Y?
+
+* [Can I Use... - Browser support tables for HTML, CSS, etc](http://caniuse.com)
+
+## Horizontal and Vertical Centering
+
+* [hasLayout.net Horizontal Centering](http://haslayout.net/css-tuts/Horizontal-Centering)
+* [Horizontal Centering using CSS](http://dorward.me.uk/www/centre/)
+* [hasLayout.net Vertical Centering](http://haslayout.net/css-tuts/Vertical-Centering)
+* [zerosixthree Vertical Align Anything in 3 lines of CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
+
+## Layouts
+
+How do I create a 2-column, 3-column layout? How do I create a header?
+How do I create a footer?
+
+* [CSS Layout Techniques](http://glish.com/css/)
+* [Layout Gala](http://blog.html.it/layoutgala/)
+* [CSS-Discuss Wiki - CSS Layouts](http://css-discuss.incutio.com/wiki/Css_Layouts)
+
 ## Float Containment
 
 How do I prevent floats from leaving their container?
