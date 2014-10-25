@@ -16,6 +16,18 @@ try the tutorials](/schools)
     * [Web Platform - HTML](http://docs.webplatform.org/wiki/html)
     * [Web Platform - CSS](http://docs.webplatform.org/wiki/css)
 
+## Validators and Linters
+
+Validators ensure that you are conforming to the specification. Linters
+help you conform to best practices and should be configurable to your
+own set of practices.
+
+* [W3C - Quality Assurance Tools](http://www.w3.org/QA/Tools/)
+
+## Useful Tools
+
+* [Can I Use... - Browser support tables for HTML, CSS, etc](http://caniuse.com)
+
 ## Specifications
 
 * [W3C - World Wide Web Consortium](http://www.w3.org)
@@ -28,6 +40,3 @@ try the tutorials](/schools)
 * [WHATWG - Web Hypertext Application Technology Working Group](http://whatwg.org)
     * [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 
-## Useful Tools
-
-* [Can I Use... - Browser support tables for HTML, CSS, etc](http://caniuse.com)
