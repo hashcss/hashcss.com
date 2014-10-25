@@ -35,6 +35,16 @@ the problem is, the people in the channel will be more inclined to help.
 In the course of making the test case, you may even figure out the
 solution to your problem yourself!
 
+## Content Management Systems (CMS)
+
+We answer questions about HTML and CSS. We can help with any HTML and
+CSS that any CMS or web framework produce, but you may not be able to
+apply our suggested fixes. Knowing your CMS is up to you.
+
+Many CMS templates are built for flexibility and configurability, not
+for clean HTML and CSS. Building a test case is very helpful when
+dealing with a CMS.
+
 ## Pitfalls
 
 Avoid these behaviors to make your time in the channel go smoothly:
