@@ -89,6 +89,13 @@ will get better help:
     * If you are in a hurry, you probably want to spend money
 * Frontend - ##frontend on Freenode
     * If you want to talk about general front–end development topics, such as CSS pre–processors, methodologies and tooling
+* Apache HTTPD - #httpd on Freenode
+    * If you're using the Apache HTTPD and need help configuring it
+    * If you're asking about htaccess files
+* DNS - #dns on Freenode
+    * If your server cannot be found
+* General Web - #web on Freenode
+    * If all else fails, try here
 
 If you are directed to another channel, please try there before asking
 in #css again. Someone may still help from #css. Off-topic chatter is
