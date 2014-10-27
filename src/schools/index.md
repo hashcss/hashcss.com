@@ -19,10 +19,14 @@ Use these resources while you are getting started with CSS.
 
 * [Team Treehouse](http://teamtreehouse.com/)
 
+## Planning and Design
+
+* [Websites for non–jerks](https://github.com/chriswrightdesign/websites-for-non-jerks)
+
 ## Accessibility
 
 * [Accessibility-Driven Information](http://a11yproject.com/)
-* [Websites for non–jerks](https://github.com/chriswrightdesign/websites-for-non-jerks)
+* [Color Contrast Check](http://snook.ca/technical/colour_contrast/colour.html)
 
 ## Libraries
 
