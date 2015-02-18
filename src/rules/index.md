@@ -53,8 +53,8 @@ increasingly severe responses.
 ### If someone is breaking the rules…
 
 If someone is breaking the rules, please ask them nicely to stop, once,
-and point them here. If they continue to break the rules, please contact
-a chanop.
+and point them here. If they continue to break the rules, please let the
+ chanops know in #css-ops.
 
 Breaking the rules while trying to help enforce the rules is still
 breaking the rules. Remember the Reasonable Person Principle.
@@ -66,40 +66,47 @@ breaking the rules. Remember the Reasonable Person Principle.
 ###Topic
 
 The #css channel is for discussing CSS with people who are writing CSS.
-If you have a different problem, here are some other places where you
-will get better help:
+If you have a different problem, here are some other channels on Freenode
+where you will get better help:
 
 * CSS libraries
     * We can help, but you might get better help on a dedicated channel
     * Bootstrap - ##bootstrap
-* JavaScript - ##javascript on Freenode
+    * Zurb Foundation - #zurb-foundation
+    * Purecss - #purecss
+* CSS preprocessors
+    * Less - ##lesscss
+    * Sass - #sass
+* JavaScript - ##javascript
     * If your question involves clicking on something
-    * JQuery - #jquery on Freenode
-    * AngularJS - #angularjs on Freenode
+    * JQuery - #jquery
+    * AngularJS - #angularjs
     * Node.js - #node.js
-* HTML - #html and #html5 on Freenode
+* HTML - #html and #html5
     * If you need help deciding which markup tags to use
-* PHP - ##php on Freenode
+* PHP - ##php
     * If your code sample has `<?php`
     * Wordpress - #wordpress
-* Design - ##design on Freenode
+* Design - ##design
     * If you want feedback on visuals
-* Freelance - #css-lance on Freenode
+* Freelance - #css-lance
     * If you are looking to hire or be hired
     * If you are in a hurry, you probably want to spend money
-* Frontend - ##frontend on Freenode
+* Frontend - ##frontend
     * If you want to talk about general front–end development topics, such as CSS pre–processors, methodologies and tooling
-* Apache HTTPD - #httpd on Freenode
+* Apache HTTPD - #httpd
     * If you're using the Apache HTTPD and need help configuring it
     * If you're asking about htaccess files
-* DNS - #dns on Freenode
+* DNS - #dns
     * If your server cannot be found
-* General Web - #web on Freenode
+* General Web - #web
     * If all else fails, try here
 
 If you are directed to another channel, please try there before asking
 in #css again. Someone may still help from #css. Off-topic chatter is
-not against the rules.
+fine as long as it does not violate the rules and the channel is quiet.
+If people are trying to help others, you may be asked to move to
+another channel or PM to reduce the amount of noise.
 
 
 ##Channel Operators
@@ -108,3 +115,4 @@ not against the rules.
 * drej
 * oksushi
 * AMcBain
+* emerson
