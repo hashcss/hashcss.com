@@ -8,7 +8,7 @@ This is the repository of [the #CSS website](http://hashcss.com).
     * [jedimind](//github.com/pudly)
     * [oksushi](//github.com/oksushi)
     * [preaction](//github.com/preaction)
-    * [emersonveenstra](//github.com/emersonveenstra)
+    * [emerson](//github.com/emersonveenstra)
 
 # Contributing
 
