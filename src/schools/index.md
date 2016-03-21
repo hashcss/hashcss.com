@@ -13,7 +13,7 @@ Use these resources while you are getting started with CSS.
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started): "This tutorial introduces you to the basic features and" syntax of CSS.
 * [WebPlatform.org](http://docs.webplatform.org/wiki/css/tutorials): "This page lists our CSS tutorials, perfect for anyone"
 * [Tuts+ 30 Days to learn HTML and CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
-* [Coderwall](https://coderwall.com/welcome)
+* [Coderwall](https://coderwall.com/web/popular)
 
 ## Paid Training
 
