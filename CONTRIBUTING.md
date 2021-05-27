@@ -1,6 +1,6 @@
-# Contributing to [the Freenode #CSS website](http://hashcss.com)
+# Contributing to [the Libera Chat #CSS website](http://hashcss.com)
 
-[The Freenode #CSS website](http://hashcss.com) is a resource for all
+[The Libera Chat #CSS website](http://hashcss.com) is a resource for all
 levels of CSS ability. It is a source of quality [CSS
 tutorials](http://hashcss.com/schools) and [CSS
 documentation](http://hashcss.com/docs).

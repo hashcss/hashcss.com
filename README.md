@@ -1,4 +1,4 @@
-# [Official site for #CSS on Freenode](http://hashcss.com)
+# [Official site for #CSS on Libera Chat](http://hashcss.com)
 
 This is the repository of [the #CSS website](http://hashcss.com).
 
@@ -9,6 +9,7 @@ This is the repository of [the #CSS website](http://hashcss.com).
     * [oksushi](//github.com/oksushi)
     * [preaction](//github.com/preaction)
     * [emerson](//github.com/emersonveenstra)
+    * [AMcBain](//github.com/AMcBain)
 
 # Contributing
 
@@ -19,7 +20,7 @@ guide in CONTRIBUTING.md.
 
 *The MIT License (MIT)*
 
-Copyright (c) 2014 #CSS//freenode
+Copyright (c) 2014 #CSS//Libera Chat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
