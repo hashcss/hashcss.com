@@ -11,7 +11,7 @@ Use these resources while you are getting started with CSS.
 
 * [Codeacademy](http://www.codecademy.com/tracks/web): "Learn how to create websites by structuring and styling your pages with HTML and CSS."
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started): "This tutorial introduces you to the basic features and" syntax of CSS.
-* [WebPlatform.org](http://docs.webplatform.org/wiki/css/tutorials): "This page lists our CSS tutorials, perfect for anyone"
+* [WebPlatform.org](https://webplatform.github.io/docs/css/): "This page lists our CSS tutorials, perfect for anyone"
 * [Tuts+ 30 Days to learn HTML and CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
 * [Coderwall](https://coderwall.com/web/popular)
 
@@ -25,9 +25,7 @@ The most useful tool for web design is built-in to every browser.
 
 ### Tutorials and Tips
 
-* [Inspector Clouseau: Bumbling your way through the basics of your browser's developer tool](http://articles.asmcbain.net/articles/inspector/)
 * [Enable Web Developer Extensions in Various Browsers](http://debugbrowser.com)
-* [Chrome DevTools Tips (Updates Weekly)](http://devtoolstips.com)
 
 ### Vendor Documentation
 
@@ -43,7 +41,7 @@ The most useful tool for web design is built-in to every browser.
 ## Accessibility
 
 * [Accessibility-Driven Information](http://a11yproject.com/)
-* [Color Contrast Check](http://snook.ca/technical/colour_contrast/colour.html)
+* [Color Contrast Check](http://web.archive.org/web/20210425025716/https://snook.ca/technical/colour_contrast/colour.html)
 
 ## Libraries
 

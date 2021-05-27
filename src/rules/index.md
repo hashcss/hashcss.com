@@ -15,7 +15,7 @@ faster.
 
 ---
 
-##Rules
+## Rules
 
 The [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
 applies.
@@ -60,34 +60,31 @@ Breaking the rules while trying to help enforce the rules is still
 breaking the rules. Remember the Reasonable Person Principle.
 
 
-##Channel Guidelines
+## Channel Guidelines
 
 
-###Topic
+### Topic
 
 The #css channel is for discussing CSS with people who are writing CSS.
-If you have a different problem, here are some other channels on Freenode
-where you will get better help:
+If you have a different problem, here are some other channels on
+[Libera Chat](https://libera.chat) where you will get better help:
 
 * CSS libraries
     * We can help, but you might get better help on a dedicated channel
-    * Bootstrap - ##bootstrap
-    * Zurb Foundation - #zurb-foundation
-    * Purecss - #purecss
+    * Bootstrap - #bootstrap
 * CSS preprocessors
-    * Less - ##lesscss
     * Sass - #sass
 * JavaScript - ##javascript
     * If your question involves clicking on something
     * JQuery - #jquery
-    * AngularJS - #angularjs
+    * AngularJS - ##angular
     * Node.js - #node.js
-* HTML - #html and #html5
+* HTML - #html
     * If you need help deciding which markup tags to use
-* PHP - ##php
+* PHP - #php or ##php
     * If your code sample has `<?php`
     * Wordpress - #wordpress
-* Design - ##design
+* Design - #design
     * If you want feedback on visuals
 * Freelance - #css-lance
     * If you are looking to hire or be hired
@@ -109,10 +106,15 @@ If people are trying to help others, you may be asked to move to
 another channel or PM to reduce the amount of noise.
 
 
-##Channel Operators
+---
 
-* preaction
+## Channel Operators
+
+Current admins are:
+
+* AMcBain (and bot admin)
 * drej
 * oksushi
-* AMcBain
-* emerson
+* preaction
+* doc
+* stenno

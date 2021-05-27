@@ -21,10 +21,8 @@ people use.
 
 * [JSFiddle](http://jsfiddle.net)
 * [Codepen](http://codepen.io)
-* [Tinkerbin](http://tinkerbin.heroku.com)
 * [JSBin](http://jsbin.com)
 * [Selvvir's Pastebin](http://paste.asmcbain.net)
-* [Webdevout](http://webdevout.net)
 
 ## Test Cases
 
@@ -73,54 +71,53 @@ What distinguishes the help vampire is:
 
 ## Bots
 
-Selvvir is an IRC bot for the #css channel on freenode. It replaces the
-previous bot, rivvles, created by Colin Aarts (aka riven or lilmonkey on
-freenode) which the author still provides but chose to remove from #css.
-
-Originally, Selvvir started as an attempt to reverse engineer rivvles
-(for no real reason). Shortly after its inception, the source code
-powering rivvles was made available on github as irc-js-bot. rivvles is
-presumably a custom configured irc-js-bot.
-
-Selvvir is not exactly the cleanest code, and as such is closed-source.
-If you want Selvvir-like functionality, see the irc-js-bot project
-github repository and run that instead. irc-js-bot does not offer the
-caniuse.com functionality of Selvvir, but it is not hard to add.
-
-Why neon green? rivvles' favorite color was hotpink. Ask Selvvir about
-`hotpink.
+Selvvir is an IRC bot run by AMcBain for the #css channel on
+[Libera Chat](https://libera.chat). Bot features don't change very often but for
+an up to date list of factoids and the current command documentation, visit
+[Selvvir's page](https://selvvir.asmcbain.net). Ping AMcBain about issues with
+Selvvir. Don't forget to ask Selvvir about `hotpink
 
 ### Commands
 
 Commands are prefixed with the \` (backtick) character to indicate to
-Selvvir it is being addressed: \``somefactoid`
+Selvvir it is being addressed:
+
+\``somefactoid`
 
 Anything not recognized as an explicit command is assumed to be a
 factoid. Factoids can have spaces.
 
 The `@` character can be used to address a command's response or factoid
-output to another user: \``caniuse flex @ username`
+output to another user:
+
+\``caniuse flex @ username`
 
 However, all errors are reported back as notices to the original
 requestor and not the addressed user. Commands with longer output also
 send it as a notice, so as not to spam the channel.
 
 Some commands have flags to modify their response. Those can be placed
-after the command name: \``caniuse/p flex`
+after the command name:
+
+\``caniuse/p flex`
 
 Not all commands offer flags, and more than one flag can be used
-together in any order: \``caniuse/np flex`
+together in any order:
+
+\``caniuse/np flex`
 
 Flags a command does not recognize will be ignored.
 
 In addition to the flags below, each command has a flag causing it to
 list out information about it and its flags instead of returning its
 normal response. This page is built with the same information listed
-there.\``caniuse/?`
+there.
 
-###set &lt;name> = &lt;content>
+\``caniuse/?`
 
-####Add or update a factoid
+### set &lt;name> = &lt;content>
+
+#### Add or update a factoid
 
 (Admin only)
 
@@ -136,8 +133,8 @@ Notes:
 
 ---
 
-###del &lt;factoid-name>
-####Delete a factoid
+### del &lt;factoid-name>
+#### Delete a factoid
 
 (Admin only)
 
@@ -147,8 +144,8 @@ Flags:
 
 ---
 
-###commands
-####Display a list of special commands I support
+### commands
+#### Display a list of special commands I support
 
 Flags:
 
@@ -156,13 +153,13 @@ Flags:
 
 ---
 
-###info &lt;factoid-name>
-####Display information about a factoid
+### info &lt;factoid-name>
+#### Display information about a factoid
 
 ---
 
-###search &lt;text>
-####Search the factoids store
+### search &lt;text>
+#### Search the factoids store
 
 Flags:
 
@@ -178,8 +175,8 @@ Notes:
 
 ---
 
-###v [&lt;url>]
-####Check a resource with the W3C markup and CSS validators.
+### v [&lt;url>]
+#### Check a resource with the W3C markup and CSS validators.
 
 Notes:
 
@@ -187,35 +184,20 @@ Notes:
 
 ---
 
-###g &lt;text>
-####Perform a web search using Google.
+### g &lt;text>
+#### Perform a web search using Google.
 
 ---
 
-###admins
-####Display a list of my admins.
+### admins
+#### Display a list of my admins.
 
 ---
 
-###short &lt;url>
-####Turn a (long) URL into a short one using « goo.gl »
+### short &lt;url>
+#### Turn a (long) URL into a short one using « goo.gl »
 
 ---
 
-###caniuse &lt;text>
-####Search caniuse.com's browser feature support data.
-
----
-
-## Admins
-
-Current admins are:
-
-* AMcBain (owner/hoster)
-* drej
-* oksushi
-* preaction
-* GarethAdams
-* doc|mobile
-* reisio
-* Munter
+### caniuse &lt;text>
+#### Search caniuse.com's browser feature support data.
