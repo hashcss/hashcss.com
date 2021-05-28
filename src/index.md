@@ -11,6 +11,6 @@ for websites.
 <a style="padding: 3em; font-size: 150%" href="/rules" class="button button-lrg">
     Read the Rules
 </a>
-<a style="padding: 3em; font-size: 150%" href="https://web.libera.chat/channel=#css" class="button button-lrg">
+<a style="padding: 3em; font-size: 150%" href="https://web.libera.chat/?channel=#css" class="button button-lrg">
     Join #CSS in your browser
 </a>
