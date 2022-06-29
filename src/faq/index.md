@@ -14,7 +14,7 @@ Does X support Y?
 ## Horizontal and Vertical Centering
 
 * [Horizontal Centering using CSS](http://dorward.me.uk/www/centre/)
-* [zerosixthree Vertical Align Anything in 3 lines of CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
+* [zerosixthree Vertical Align Anything in 3 lines of CSS](https://web.archive.org/web/20211121022935/http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 
 ## Layouts
 
@@ -22,7 +22,7 @@ How do I create a 2-column, 3-column layout? How do I create a header?
 How do I create a footer?
 
 * [CSS Layout Techniques](http://web.archive.org/web/20081106025952/http://glish.com/css/)
-* [Layout Gala](http://blog.html.it/layoutgala/)
+* [Layout Gala](https://web.archive.org/web/20150905075415/http://blog.html.it/layoutgala/)
 
 ## Float Containment
 
