@@ -77,8 +77,9 @@ If you have a different problem, here are some other channels on
 * JavaScript - ##javascript
     * If your question involves clicking on something
     * JQuery - #jquery
-    * AngularJS - ##angular
+    * Angular - #angular
     * Node.js - #node.js
+    * Vue.js - #vuejs
 * HTML - #html
     * If you need help deciding which markup tags to use
 * PHP - #php or ##php
